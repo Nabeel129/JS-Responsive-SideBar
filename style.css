@@ -124,6 +124,8 @@
       color: skyblue;
   }
 
+  /* Responsive made using Media Queries */
+
   @media screen and (min-width: 600px) {
       .sidebar {
           width: 400px;
